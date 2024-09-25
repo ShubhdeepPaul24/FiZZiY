@@ -95,6 +95,28 @@ This project includes an application called Slice Machine, which generates model
 
 If you change or add to your Custom Types, you'll need to update your route handling to match. To learn how to do that, read [Define Paths in Next.js](https://prismic.io/docs/technologies/define-paths-nextjs).
 
+
+Fizzi E-commerce Product Landing Page
+Welcome to the Fizzi E-commerce Product Landing Page repository! This project is a dynamic and interactive landing page designed to showcase and sell a fictional soda brand called Fizzi. Built with cutting-edge technologies like Next.js 14, Three.js, GSAP, and Prismic, this website offers an engaging user experience with 3D visuals and smooth animations.
+
+Table of Contents
+Features
+Technologies Used
+Installation
+Usage
+Contributing
+License
+Features
+3D Product Visualization: Showcase Fizzi products in an immersive 3D environment using Three.js.
+Smooth Animations: Enhance user engagement with GSAP animations.
+Content Management: Utilize Prismic for easy content management and updates.
+Responsive Design: Fully responsive layout for optimal viewing on all devices.
+SEO Optimized: Built with SEO best practices in mind to improve visibility.
+Technologies Used
+Next.js 14: A React framework for building server-side rendered applications.
+Three.js: A JavaScript library for creating and displaying animated 3D graphics in the browser.
+GSAP: A powerful library for creating high-performance animations.
+Prismic: A headless CMS that allows for easy content management.
 ## Documentation
 
 For the official Prismic documentation, see [Prismic's guide for Next.js][prismic-docs] or the [technical references for the installed Prismic packages](https://prismic.io/docs/technologies/technical-references).
